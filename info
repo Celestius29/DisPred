@@ -1,0 +1,9 @@
+Dataset acquired from https://www.kaggle.com/datasets/tejpal123/human-disease-prediction-dataset.
+Content
+Complete Dataset consists of 2 CSV files . One of them is training and other is for testing your model.
+
+Each CSV file has 133 columns. 132 of these columns are symptoms that a person experiences and last column is the prognosis.
+
+These symptoms are mapped to 42 diseases you can classify these set of symptoms to.
+
+You are required to train your model on training data and test it on testing data
