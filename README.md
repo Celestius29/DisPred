@@ -1,4 +1,4 @@
-# Header 1 Disease Prediction using Machine Learning
+# Disease Prediction using Machine Learning
 
 This repository contains a machine learning model for predicting diseases based on symptoms. The model uses three machine learning algorithms: Support Vector Machine (SVM), Gradient Boosting Classifier (GBC), and Random Forest.
 Dataset
